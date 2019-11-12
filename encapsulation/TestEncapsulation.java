@@ -17,6 +17,7 @@ public class TestEncapsulation
         //abstraction  - Force calling those variables using methods  (interaction won't be direct it will be help
                         // with some methods such as setters and getters )
         //getter and setter
+        System.out.println("Heyyyyyyyyyyyyyyyyyyyyytyyyyyy");
 
 
 

@@ -21,7 +21,8 @@ public class Cat extends Animal
         System.out.println(doubleAdd);
 
 
-        System.out.println("Pavel Ahmed )";
+        System.out.println("Pavel Ahmed ");
+
 
 
 

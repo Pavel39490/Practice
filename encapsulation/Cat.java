@@ -14,6 +14,11 @@ public class Cat extends Animal
 
         System.out.println(add);
 
+        double x = 10.0;
+        double y = 20.0;
+
+        double doubleAdd = x=y;
+        System.out.println(doubleAdd);
 
     }
 

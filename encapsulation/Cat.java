@@ -20,6 +20,15 @@ public class Cat extends Animal
         double doubleAdd = x=y;
         System.out.println(doubleAdd);
 
+
+        System.out.println("Pavel Ahmed )";
+
+
+
+
+
+
+
     }
 
 }

@@ -22,6 +22,7 @@ public class Cat extends Animal
 
 
         System.out.println("Pavel Ahmed ");
+        System.out.println("Fiexed error in practice");
 
 
 
